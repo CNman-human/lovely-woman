@@ -5,7 +5,7 @@
 <br>收录AWSL事件新闻，持续更新，欢迎邮件来稿<br>
 投稿格式：[标题]+(新闻链接)<br>
 
-|Author|幸存的全体中国女性|
+|Author|幸福的全体中国男性|
 |---|---
 |E-mail|cnman-human@tutanota.com
 
