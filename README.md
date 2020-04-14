@@ -15,7 +15,7 @@
 
 ## 前言
 
-此github项目为对[evil-man](https://github.com/CNwoman-bot/evil-man)的讽刺和对将政治诉求搬上github的反对，不代表任何社会主张或政治诉求。
+此github项目为对[evil-man](https://github.com/CNwoman-bot/evil-man)的讽刺和对所有类似的将政治诉求搬上github的反对，不代表任何社会主张或政治诉求。
 
 近期陆续有许多心系github的程序员自发举报它，我在此表示感谢，并希望同时去举报[evil-man](https://github.com/CNwoman-bot/evil-man)，希望两个rep能同时消失，还github一片净土。
 
@@ -27,7 +27,7 @@
 
 ## Foreword
 
-This GitHub repo is a sarcasm to [evil-man](https://github.com/CNwoman-bot/evil-man). It aims to show that we are against to bring political request to GitHub and it does not represent any political or social request.
+This GitHub repo is a sarcasm to [evil-man](https://github.com/CNwoman-bot/evil-man) and all similar repos that bring politics to Github. It aims to show that we are against to bring political request to GitHub and it does not represent any political or social request.
 
 If you are annoyed by this repo, welcome to report it, only if you report [evil-man](https://github.com/CNwoman-bot/evil-man) at the same time. The only aim for this repo is to end both this and [evil-man](https://github.com/CNwoman-bot/evil-man) repo.
 
