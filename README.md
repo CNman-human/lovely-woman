@@ -15,7 +15,8 @@
 
 ## 前言
 
-此github项目为对[evil-man](https://github.com/CNwoman-bot/evil-man)的讽刺和对将政治诉求搬上github的反对，不代表任何社会主张或政治诉求。 
+此github项目为对[evil-man](https://github.com/CNwoman-bot/evil-man)的讽刺和对将政治诉求搬上github的反对，不代表任何社会主张或政治诉求。
+
 近期陆续有许多心系github的程序员自发举报它，我在此表示感谢，并希望同时去举报[evil-man](https://github.com/CNwoman-bot/evil-man)，希望两个rep能同时消失，还github一片净土。
 
 在这一目标达成之前，我并不希望这一repo成为对应的盲目的仇恨内容，所以采用了相反地标题，欢迎共同描述女性的伟大和可爱。
