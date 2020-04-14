@@ -39,5 +39,5 @@ At the same thing, I humbly apologize, which is beyond myself, for the political
 ## 真正的目录 Real Content
 以下是这一repo基于上述理由而反对的所有repo，欢迎补充
 
-Following is a list of all repos this repo are against, for above reason. Welcome to help complete it.
+Following is a list of all repos this repo is against, for above reason. Welcome to help complete it.
 - [evil-man](https://github.com/CNwoman-bot/evil-man)
