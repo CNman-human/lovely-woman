@@ -6,7 +6,8 @@
 投稿格式：[标题]+(新闻链接)<br>
 
 |Author|幸福的全体中国男性|
-|---|---|E-mail|cnman-human@tutanota.com
+|---|---
+|E-mail|cnman-human@tutanota.com
 
 ## 目录
 
